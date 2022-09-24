@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/53694372/110206246-3e8b5180-7e85-11eb-8047-3fa3721adb8b.png)
 
 
-In this assignment we had to implement the game known as reversi ( https://en.wikipedia.org/wiki/Reversi ) , a game board for it and an AI that uses the MiniMax algorithm in order to predict the next best possible move and play the game against a human player. The user can choose if he wants to go first (in which case he'll play as the black pawns player) or second (White pawns player). The user also chooses the depth the algorithm searches at , in order to increase the difficulty of the game. More specifically :
+In this Artificial Intelligence assignment we had to implement the game known as Reversi, a game board for it and an AI that uses the MiniMax algorithm in order to predict the next best possible move and play the game against a human player. The user can choose if he wants to go first (in which case he'll play as the black pawns player) or second (White pawns player). The user also chooses the depth the algorithm searches at , in order to increase the difficulty of the game. More specifically :
 - depth = 2 is easy mode
 - depth = 4 is medium mode
 - depth = 6 is hard mode

@@ -17,4 +17,4 @@ Any other depth might cause long waiting times as the AI searches further deep i
 2. Compile and run Main.java
 3. Enter the desired depth.
 4. Choose if you want to play first or not.
-5. Try to win.
+5. Win, if you can...

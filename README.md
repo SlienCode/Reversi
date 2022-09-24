@@ -1,4 +1,4 @@
-# Reversi game with a MiniMax AI
+# Reversi
 ![image](https://user-images.githubusercontent.com/53694372/110206246-3e8b5180-7e85-11eb-8047-3fa3721adb8b.png)
 
 

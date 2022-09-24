@@ -12,7 +12,7 @@ In this Artificial Intelligence assignment we had to implement the game known as
 
 Any other depth might cause long waiting times as the AI searches further deep into the tree in order to find the best possible move.
 
-# How to Play:
+## How to Play:
 1. Create a new folder containing all of the java files.
 2. Compile and run Main.java
 3. Enter the desired depth.
